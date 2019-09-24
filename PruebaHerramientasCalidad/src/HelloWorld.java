@@ -2,7 +2,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		while (true);
+		int A = 1;
 	}
 
 }
